@@ -58,8 +58,7 @@ As Of Nov. 4, 2020
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericzhu105&layout=compact&theme=radical" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ericzhu105&theme=radical" />
-  </p>
+   
 </div>
 
 ---
