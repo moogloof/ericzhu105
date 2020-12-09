@@ -42,17 +42,9 @@ As Of Nov. 4, 2020
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ---
 
-<h1>My Github Stats &#x1f4c8;</h1>Z¸¸Zz
-a
+<h1>My Github Stats &#x1f4c8;</h1>
 
 <div>
-  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15&theme=onedark"/>
-  </a>
-  </p>
-</div>
-<br />
 <div align="center">
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ericzhu105&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
