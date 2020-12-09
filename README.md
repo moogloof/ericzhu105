@@ -42,7 +42,8 @@ As Of Nov. 4, 2020
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ---
 
-<h1>My Github Stats &#x1f4c8;</h1>
+<h1>My Github Stats &#x1f4c8;</h1>Z¸¸Zz
+a
 
 <div>
   <p align="center">
