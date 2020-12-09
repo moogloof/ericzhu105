@@ -65,10 +65,11 @@ As Of Nov. 4, 2020
 
 <h3>Connect & Contact Me!</h3>
 <p><a href="mailto:ericzhu105@gmail.com">Email Me!</a></p>
+<p><a href="http://u.filein.io/fkNoRnHOW8.pdf">My Resume!</a></p>
 <p><a href="https://github.com/ericzhu105" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/ericzhu105" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> <a href="https://www.linkedin.com/in/ericzhu105/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/c/EricZhut/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%7232BD.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/c/EricZhut/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <a href="https://hackclub.com/"><img src="https://assets.hackclub.com/flag-orpheus-left.png" width="100"></a>
