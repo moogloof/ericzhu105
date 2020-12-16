@@ -1,4 +1,11 @@
-<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px"><h1>Hey! I'm Eric Zhu!</h1>
+<div align="center">
+  <br>
+    <a href="https://github.com/ericzhu105/ericzhu105/blob/main/header.svg" align="center">
+      <img src="header.svg" width="800" height="400" >
+    </a>
+  <br>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=ericzhu105&color=4285F4)
 
