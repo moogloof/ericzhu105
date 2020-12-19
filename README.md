@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=007ACC)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <h4>Services & Frameworks I Know & Use</h4>
@@ -36,6 +35,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=61DAFB)
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 
+
 <h4>Things I Want To Learn & Things I Am Learning</h4>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
@@ -48,6 +48,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQLColor=339933)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ---
 
 <h1>My Github Stats &#x1f4c8;</h1>
