@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=ericzhu105&color=4285F4)
 
 
-
+<h3>I kinda messed up my commits 😳</h3>
 ---
 
 <h2>About Me</h2>
