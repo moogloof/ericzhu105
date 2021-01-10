@@ -11,7 +11,6 @@
 
 
 <h3>I kinda messed up my commits 😳</h3>
----
 
 <h2>About Me</h2>
 <h4>Languages I Know & Use</h4>
