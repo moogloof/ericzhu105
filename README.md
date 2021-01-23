@@ -13,7 +13,7 @@
 <h3>I kinda messed up my commits 😳</h3>
 
 <h2>About Me</h2>
-<h4>Languages I Know & Use</h4>
+<h4>Languages I Use</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-<h4>Services & Frameworks I Know & Use</h4>
+<h4>Services & Frameworks I Use</h4>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
@@ -34,7 +34,7 @@
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 
 
-<h4>Things I Want To Learn & Things I Am Learning</h4>
+<h4>Things I Want to Learn & Things I am Currently Learning</h4>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=339933)
@@ -65,7 +65,7 @@
 
 <h3>Connect & Contact Me!</h3>
 <p><a href="mailto:ericzhu105@gmail.com">Email Me!</a></p>
-<p><a href="https://discord.gg/8YqE22ceXz">My Discord</a></p>
+<p><a href="https://discord.gg/KeDhaBC66d">My Discord</a></p>
 <p><a href="https://github.com/ericzhu105" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/ericzhu105" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> <a href="https://www.linkedin.com/in/eric-zhu-4208a81b3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
