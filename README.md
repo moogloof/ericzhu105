@@ -19,7 +19,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <h4>Services & Frameworks I Use</h4>
 
